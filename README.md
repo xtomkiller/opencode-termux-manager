@@ -41,3 +41,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/opencode-termux-manager.git
 cd opencode-termux-manager 
+chmod +x opencode-manager.sh
+bash opencode-manager.sh
